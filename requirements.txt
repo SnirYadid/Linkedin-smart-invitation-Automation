@@ -1,0 +1,4 @@
+keyboard
+chromedriver-autoinstaller>=0.2.2
+selenium>=3.141.0
+urllib3>=1.25.9
