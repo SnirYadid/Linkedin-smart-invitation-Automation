@@ -1,6 +1,5 @@
 # Linkedin smart invitation automation
 The program sends requests automatically in a smart way. <br/>
-The type of people who approve requests in the highest percentages are recruiters. <br/>
 LinkedIn offers those who reach more than 500 connections more options, so you should reach the threshold as soon as possible. <br/>
 The program sends requests intelligently in two possible options: <br/><br/>
 First -   Recommended - Sending connection messages to a 2nd connection that work in human resources
